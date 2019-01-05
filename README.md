@@ -9,5 +9,5 @@ code for this interaction is available in the ------------- repository.
 The file TesterScriptThread.py it's the launcher for the application you can launch
 it typping:
 
-# python2.7 TesterScriptThread.py
+### python2.7 TesterScriptThread.py
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
