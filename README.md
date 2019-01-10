@@ -1,13 +1,6 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+This repository contents a python script "TesterScriptThread.py" that is a functional code file to allow the interaction between a Ros core and a development board Arduino Uno, using Rosserial, thread library and the Arduino's serial communication.
 
-Tester script for interaction between arduino and ros, using rosserial, arduino
-ide and the roscore as master.
+Furthermore, this repo is part of a collection of files to improve communication through Arduino and Ros, afterward, I'll upload complements files to visualize the data recollected with Arduino using Rviz and Gazebo.
 
-The GUI was developped in QtDesigner and Powered with Python 2.7, the arduino
-code for this interaction is available in the ------------- repository.
-
-The file TesterScriptThread.py it's the launcher for the application you can launch
-it typping:
-
-### python2.7 TesterScriptThread.py
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+To run the script in ubuntu you must type on your shell:
+~#yourpc@yourname: python /PathToFile/TesterScriptThreat.py
